@@ -4,7 +4,7 @@ Welcome to the HTML Learners 2024 repository! This is a collaborative space desi
 
 ## Getting Started
 
-To start contributing and practicing HTML, follow these steps:
+To start contributing and practising HTML, follow these steps:
 
 1. **Fork the Repository**
    - Fork this repository to create a copy under your own GitHub account. This allows you to make changes without affecting the original repository.
@@ -100,5 +100,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 If you have any questions or need further assistance, feel free to reach out through our [contact page](https://codeharborhub.github.io/contact).
-
-Happy coding!
